@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sena Çetin</h1>
 
 <p align="center">
-  EE & Computer Engineering Student @ Turkish-German University | 42 Istanbul Cadet
+  EE & Computer Engineering Student at Turkish-German University | 42 Istanbul Common Core Student
 </p>
 
 <p align="center">
@@ -26,7 +26,8 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"
+/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
