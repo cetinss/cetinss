@@ -40,7 +40,7 @@
 ### 🧠 Projects
 
 **42 Istanbul Projects**  
-[libft](https://github.com/cetinss/libft),  [get_next_line](https://github.com/cetinss/get_next_line),  [ft_printf](https://github.com/cetinss/ft_printf),  [so_long](https://github.com/cetinss/so_long),  [minitalk](https://github.com/cetinss/minitalk),  [push_swap](https://github.com/cetinss/push_swap),  [Born2beroot](https://github.com/cetinss/Born2beroot),  [Shell](https://github.com/cetinss/Shell)
+[libft](https://github.com/cetinss/libft),  [get_next_line](https://github.com/cetinss/get_next_line),  [ft_printf](https://github.com/cetinss/ft_printf),  [so_long](https://github.com/cetinss/so_long),  [minitalk](https://github.com/cetinss/minitalk),  [push_swap](https://github.com/cetinss/push_swap_42),  `Born2beroot`,  [C-Piscine and Shell projects](https://github.com/cetinss/42-Piscine)
 
 > Projects on memory management, client-server communication, Linux system programming
 
