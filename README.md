@@ -18,8 +18,7 @@
 - 🚀 Common Core student at **42 Istanbul** — low-level programming & system design
 - 💻 Interested in **C/C++**, **Linux**, **embedded systems**, and **AI**
 - 🎯 Strong in teamwork, communication, and creative problem solving
-- 🌱 Always learning and building through hands-on projects  
-- 📄 [View My CV (PDF)](https://github.com/cetinss/cetinss/raw/main/cetinss_cv_en.pdf)
+- 🌱 Always learning and building through hands-on projects 
 
 ---
 
